@@ -1,2 +1,3 @@
 # myExercises
-my work during the course of my dev education
+My work during the course of my dev education.
+This is supposed to show my work, my struggle, my progress and my determination... 
